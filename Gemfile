@@ -1,8 +1,8 @@
 source 'http://rubygems.org'
 
-gem "rails", ">= 3.0.3"
+gem "rails"
 gem "sqlite3"
-gem "rspec-rails", "~> 2.4.0"
+gem "rspec-rails"
 gem "rcov"
 gem "ruby-debug"
 gem "yard"
